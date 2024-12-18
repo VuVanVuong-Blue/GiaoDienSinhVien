@@ -1,0 +1,12 @@
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\bin\Debug\GiaoDienSinhVien.exe.config
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\bin\Debug\GiaoDienSinhVien.exe
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\bin\Debug\GiaoDienSinhVien.pdb
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\obj\Debug\GiaoDienSinhVien.csproj.AssemblyReference.cache
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\obj\Debug\GiaoDienSinhVien.Form1.resources
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\obj\Debug\GiaoDienSinhVien.Properties.Resources.resources
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\obj\Debug\GiaoDienSinhVien.csproj.GenerateResource.cache
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\obj\Debug\GiaoDienSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\obj\Debug\GiaoDienSinhVien.exe
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\obj\Debug\GiaoDienSinhVien.pdb
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\obj\Debug\GiaoDienSinhVien.Form2.resources
+C:\Users\seven\source\repos\GiaoDienSinhVien\GiaoDienSinhVien\obj\Debug\GiaoDienSinhVien.Form3.resources
